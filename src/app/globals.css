@@ -11,6 +11,12 @@
   box-shadow: var(--tarjeta-shadow);
   border: 1px solid #1B57A7;
   max-width: 420px;
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.tarjeta-global:hover{
+  transform: translateY(-4px);
+  cursor: pointer;
 }
 
 .titulo-global {
