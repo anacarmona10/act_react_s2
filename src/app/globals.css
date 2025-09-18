@@ -1,7 +1,7 @@
 :root {
   --tarjeta-padding: 1rem;
   --tarjeta-radius: 12px;
-  --tarjeta-shadow: 0 6px 18px rgba(230, 47, 47, 0.06);
+  --tarjeta-shadow:  6px 6px 6px rgba(111, 188, 243, 0.43);
 }
 
 .tarjeta-global {
