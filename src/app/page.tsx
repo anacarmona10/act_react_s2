@@ -8,7 +8,7 @@ export default function page() {
   return (
     <>
     <TarjetaGlobal titulo={"Actividad 2"} contenido={"aserfgyuyghui"} color={'#A0C0DF'}/>
-    <TarjetaModulo nombre={"Tarjeta Modular"} descripcion={"fdgshjk"} categoria={"Músical"}/>
+    <TarjetaModulo nombre={"Tarjeta Modular"} descripcion={"fdgshjk"} categoria={"Músical"} variante={'tarjetaExito'}/>
     </>
   )
 }

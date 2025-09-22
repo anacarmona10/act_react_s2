@@ -26,7 +26,6 @@
   margin: 0;
 }
 
-/* Descripción del contenido */
 .descripcion {
   font-size: 1rem;
   line-height: 1.4;
@@ -34,7 +33,6 @@
   margin: 12px 0;
 }
 
-/* Categoría: como una etiqueta */
 .categoria {
   display: inline-block;
   background-color: #e0f7fa;
@@ -45,4 +43,19 @@
   border-radius: 8px;
   text-transform: uppercase;
   letter-spacing: 1px;
+}
+
+.tarjetaPrimaria {
+  background-color: #e0c3ea; 
+  color: #6f19a0;            
+}
+
+.tarjetaSecundaria {
+  background-color: #f0d0db; 
+  color: #2a0a21;            
+}
+
+.tarjetaExito {
+  background-color: #caf1cd; 
+  color: #1b5e20;            
 }
